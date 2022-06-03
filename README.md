@@ -1,1 +1,3 @@
 # MergeFreezeTest
+
+Testing template
